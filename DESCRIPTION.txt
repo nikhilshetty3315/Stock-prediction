@@ -1,0 +1,1 @@
+In this stock market predictor project, we have stored stock's information within Front End as Type Script file. We will get the stock's stored information, by searching stock with its name through search box.In this project we are also showing stocks information which were searched by us in past.
